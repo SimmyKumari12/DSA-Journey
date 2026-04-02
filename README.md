@@ -20,6 +20,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -62,5 +64,6 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
