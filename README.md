@@ -52,6 +52,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0007-reverse-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
