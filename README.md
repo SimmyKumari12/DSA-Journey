@@ -26,6 +26,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0136-single-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
