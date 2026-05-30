@@ -20,6 +20,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0088-merge-sorted-array) |
@@ -45,6 +46,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
