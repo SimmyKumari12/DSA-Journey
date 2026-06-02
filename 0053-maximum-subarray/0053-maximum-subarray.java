@@ -1,19 +1,12 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int maxSum = Integer.MIN_VALUE;
-        int currSum = 0;
         int n = nums.length;
+        int maxSum = nums[0];
+        int sum = 0;
 
-        if(n == 1){
-            return nums[n-1];
-        }
-
-        for(int x : nums){
-            currSum += x;
-            maxSum = Math.max(currSum,maxSum);
-            if(currSum < 0){
-                currSum = 0;
-            }
+        for(int i = 0; i < n; i++){
+            sum = Math.max(nums[i],nums[i] + sum);
+            maxSum = Math.max(maxSum,sum);
         }
         return maxSum;
     }
