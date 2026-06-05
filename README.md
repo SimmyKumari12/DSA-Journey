@@ -25,6 +25,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0031-next-permutation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0118-pascals-triangle) |
@@ -91,6 +92,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -126,6 +128,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
