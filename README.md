@@ -90,6 +90,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0007-reverse-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -116,6 +117,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -177,4 +179,8 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
