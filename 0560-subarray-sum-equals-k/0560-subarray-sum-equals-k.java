@@ -5,12 +5,10 @@ class Solution {
         int sum = 0;
         HashMap<Integer,Integer> map = new HashMap<>();
 
+        map.put(0,1);
+
         for(int i = 0; i < n; i++){
             sum = sum + nums[i]; //0 + 1 = 1
-
-            if(sum == k){
-                count++;
-            }
 
             int target = sum - k; //2 - 1 = 1
 
