@@ -10,28 +10,16 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode curr = head;
-        int len = findLength(head);
+        ListNode slow = head;
+        ListNode fast = head;
 
-        int mid = len/2;
-
-        for(int i = 0; i < mid; i++){
-            curr = curr.next;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        head = curr;
-        
-        return head;
-    }
+        head = slow;
 
-    public int findLength(ListNode head){
-        ListNode curr = head;
-        int count = 0;
-
-        while(curr != null){
-            count++;
-            curr = curr.next;
-        }
-        return count;
+        return head;    
     }
 }
