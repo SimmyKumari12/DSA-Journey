@@ -104,6 +104,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0062-unique-paths) |
@@ -153,6 +154,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -233,6 +235,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0206-reverse-linked-list) |
