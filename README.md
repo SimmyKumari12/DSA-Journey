@@ -66,6 +66,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0003-longest-substring-without-repeating-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0229-majority-element-ii) |
@@ -133,6 +134,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0075-sort-colors](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0283-move-zeroes) |
@@ -241,6 +243,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0002-add-two-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
