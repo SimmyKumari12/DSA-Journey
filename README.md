@@ -139,6 +139,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0141-linked-list-cycle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -166,6 +167,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0021-merge-two-sorted-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -252,6 +254,11 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0141-linked-list-cycle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
