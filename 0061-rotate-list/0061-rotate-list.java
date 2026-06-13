@@ -14,26 +14,25 @@ class Solution {
             return head;
         }
 
-        int n = 0;
         ListNode temp = head;
-        while (temp != null) {
-            n++;
+        int n = 1;
+        while(temp.next != null){
             temp = temp.next;
+            n++;
         }
         k = k % n;
 
-        while(k-- > 0){
-            ListNode prev = null;
-            ListNode curr = head;
-
-            while(curr.next != null){
-                prev = curr;
-                curr = curr.next;
-            }
-            prev.next = null;
-            curr.next = head;
-            head = curr;
+        //Make it as a circular linked list
+        temp.next = head;
+        
+        ListNode newTail = head;
+        for(int i = 1; i < n - k; i++){
+            newTail = newTail.next;
         }
-        return head;
+
+        ListNode newHead = newTail.next;
+        newTail.next = null;
+
+        return newHead;
     }
 }
