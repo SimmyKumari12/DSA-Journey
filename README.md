@@ -145,6 +145,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0283-move-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -261,6 +262,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
