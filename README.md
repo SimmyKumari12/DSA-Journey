@@ -25,6 +25,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0018-4sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
@@ -134,6 +135,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0088-merge-sorted-array) |
@@ -150,6 +152,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0118-pascals-triangle) |
@@ -266,5 +269,10 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
