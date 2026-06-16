@@ -31,6 +31,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -287,4 +289,8 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
