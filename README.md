@@ -41,6 +41,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -99,6 +100,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -147,6 +149,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -192,6 +195,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
