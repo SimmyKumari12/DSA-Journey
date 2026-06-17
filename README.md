@@ -25,6 +25,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0018-4sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
@@ -294,5 +295,6 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
