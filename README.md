@@ -174,6 +174,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3612-process-string-with-special-operations-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3614-process-string-with-special-operations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -239,6 +240,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3612-process-string-with-special-operations-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3614-process-string-with-special-operations-ii) |
 ## Combinatorics
 |  |
 | ------- |
