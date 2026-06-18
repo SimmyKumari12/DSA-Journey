@@ -32,6 +32,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0118-pascals-triangle) |
@@ -62,6 +63,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
@@ -303,6 +305,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0039-combination-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
