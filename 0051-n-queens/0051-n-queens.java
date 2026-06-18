@@ -27,28 +27,21 @@ class Solution {
 
     boolean isSafe(char[][] board, int row, int col, int n){
         //Vertical Condition check
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < row; i++){
             if(board[i][col] == 'Q'){
                 return false;
             }
         }
 
-        //Horizontal Condition Check
-        for(int j = 0; j < n; j++){
-            if(board[row][j] == 'Q'){
-                return false;
-            }
-        }
-
         //Left Diagonal Check
-        for(int i = row, j = col; i >= 0 && j >= 0; i--,j--){
+        for(int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--,j--){
             if(board[i][j] == 'Q'){
                 return false;
             }
         }
 
         //Right Diagonal Check
-        for(int i = row, j = col; i >= 0 && j < n; i--,j++){
+        for(int i = row - 1, j = col + 1; i >= 0 && j < n; i--,j++){
             if(board[i][j] == 'Q'){
                 return false;
             }
