@@ -42,6 +42,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0229-majority-element-ii) |
@@ -82,6 +83,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
@@ -176,6 +178,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0118-pascals-triangle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -185,6 +188,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0003-longest-substring-without-repeating-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3612-process-string-with-special-operations-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3612-process-string-with-special-operations-i) |
@@ -202,6 +206,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -318,4 +323,8 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0078-subsets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
