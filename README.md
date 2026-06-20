@@ -25,6 +25,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0018-4sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0040-combination-sum-ii) |
@@ -215,6 +216,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
