@@ -52,6 +52,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -217,6 +218,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
