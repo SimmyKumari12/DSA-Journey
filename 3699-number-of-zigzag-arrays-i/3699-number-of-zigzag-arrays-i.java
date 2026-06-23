@@ -1,40 +1,51 @@
+import java.util.Arrays;
+
 class Solution {
     public int zigZagArrays(int n, int l, int r) {
+        int MOD = 1_000_000_007;
         int k = r - l + 1;
-        int mod = 1000000007;
 
-        int[][] dp = new int[k + 1][2]; // 0 for down, 1 for up
+        // up[v] = valid arrays ending at value v where the last step went UP
+        // down[v] = valid arrays ending at value v where the last step went DOWN
+        int[] up = new int[k];
+        int[] down = new int[k];
 
-        for(int v = 1; v <= k; v++){
-            dp[v][0] = k - v;
-            dp[v][1] = v - 1;
-        }
+        // Base Case: Every number on its own is a valid sequence of length 1
+        Arrays.fill(up, 1);
+        Arrays.fill(down, 1);
 
-        for(int i = 3; i <= n; i++){
+        // Process for lengths from 2 to n
+        for (int i = 2; i <= n; i++) {
+            int[] nextUp = new int[k];
+            int[] nextDown = new int[k];
 
-            int[][] newDp = new int[k + 1][2];
-
-            long sum1 = 0;
-            for(int v = 1; v <= k; v++){
-                newDp[v][1] = (int) sum1;
-                sum1 = (sum1 + dp[v][0]) % mod;
+            // 1. Calculate choices going UP to value 'v'
+            // To go up to v, previous value must be strictly less than v (from 'down' state)
+            long prefixSumDown = 0;
+            for (int v = 0; v < k; v++) {
+                nextUp[v] = (int) prefixSumDown;
+                prefixSumDown = (prefixSumDown + down[v]) % MOD;
             }
 
-            long sum2 = 0;
-            for(int v = k; v >= 0; v--){
-                newDp[v][0] = (int)sum2;
-                sum2 = (sum2 + dp[v][1]) % mod;
+            // 2. Calculate choices going DOWN to value 'v'
+            // To go down to v, previous value must be strictly greater than v (from 'up' state)
+            long suffixSumUp = 0;
+            for (int v = k - 1; v >= 0; v--) {
+                nextDown[v] = (int) suffixSumUp;
+                suffixSumUp = (suffixSumUp + up[v]) % MOD;
             }
 
-            dp = newDp;
+            // Move to the next length layer
+            up = nextUp;
+            down = nextDown;
         }
 
-        int total = 0;
-
-        for(int v = 1; v <= k; v++){
-            total = (total + dp[v][0])%mod;
-            total = (total + dp[v][1])%mod;
+        // Sum up all valid endpoints for length n
+        long totalArrays = 0;
+        for (int v = 0; v < k; v++) {
+            totalArrays = (totalArrays + up[v] + down[v]) % MOD;
         }
-        return total;
+
+        return (int) totalArrays;
     }
 }
