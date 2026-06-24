@@ -160,6 +160,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1840-maximum-building-height](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1840-maximum-building-height) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -205,6 +206,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
 | ------- |
