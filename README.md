@@ -73,6 +73,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [3005-count-elements-with-maximum-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3689-maximum-total-subarray-value-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,6 +108,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +146,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -268,6 +272,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2574-left-and-right-sum-differences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -279,6 +284,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -311,6 +317,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
