@@ -72,6 +72,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -109,6 +110,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -386,4 +388,8 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
