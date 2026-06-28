@@ -15,11 +15,6 @@ class Solution {
             }
         }
 
-        //After rearranging and decreasing
-        int ans = Integer.MIN_VALUE;
-        for(int num : arr){
-            ans = Math.max(ans,num);
-        }
-        return ans;
+        return arr[n - 1];
     }
 }
