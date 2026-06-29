@@ -185,6 +185,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -210,6 +211,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0062-unique-paths) |
@@ -226,6 +228,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
