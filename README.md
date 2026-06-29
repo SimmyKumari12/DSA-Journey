@@ -94,6 +94,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0001-two-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
@@ -163,6 +164,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0002-add-two-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0189-rotate-array) |
@@ -229,6 +231,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
