@@ -374,6 +374,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -413,4 +414,12 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0796-rotate-string) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
