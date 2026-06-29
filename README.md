@@ -229,6 +229,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0796-rotate-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3612-process-string-with-special-operations-i) |
@@ -398,4 +399,8 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
