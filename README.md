@@ -116,6 +116,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [3005-count-elements-with-maximum-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -242,6 +243,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3838-weighted-word-mapping) |
@@ -285,6 +287,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Prefix Sum
 |  |
 | ------- |
