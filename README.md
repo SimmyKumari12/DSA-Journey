@@ -22,6 +22,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0001-two-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -234,6 +235,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0003-longest-substring-without-repeating-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
@@ -407,6 +409,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 ## Quickselect
 |  |
