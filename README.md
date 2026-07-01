@@ -239,6 +239,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0005-longest-palindromic-substring](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
