@@ -198,6 +198,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0018-4sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0061-rotate-list) |
@@ -240,6 +241,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0008-string-to-integer-atoi](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
@@ -433,6 +435,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0796-rotate-string) |
 ## Design
