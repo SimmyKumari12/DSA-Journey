@@ -107,6 +107,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
@@ -143,6 +144,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0088-merge-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
@@ -247,6 +249,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0686-repeated-string-match) |
