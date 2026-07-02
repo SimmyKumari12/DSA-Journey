@@ -247,6 +247,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0151-reverse-words-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0686-repeated-string-match](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -432,6 +433,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0796-rotate-string) |
 ## Design
 |  |
