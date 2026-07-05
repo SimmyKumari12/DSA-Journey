@@ -61,6 +61,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -192,6 +193,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0037-sudoku-solver](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -236,6 +238,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0264-ugly-number-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
