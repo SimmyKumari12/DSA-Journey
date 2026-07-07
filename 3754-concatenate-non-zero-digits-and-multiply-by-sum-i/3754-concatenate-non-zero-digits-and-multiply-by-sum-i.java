@@ -1,27 +1,22 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String st = String.valueOf(n);
-        String ans = "";
-
-        if(n == 0){
-            return 0;
-        }
-
-        for(char ch : st.toCharArray()){
-            if(ch - '0' != 0){
-                ans = ans + ch;
-            }
-        }
-
-        long x = Integer.parseInt(ans);
-        long val = x;
+        long num = 0;
         long sum = 0;
+        long ans = 0;
 
-        while(val > 0){
-            sum = sum + (val % 10);
-            val = val/10;
+        while(n > 0){
+            if(n % 10 != 0){
+                num = (num * 10) + (n % 10);
+                sum += (n % 10);
+            }
+            n = n / 10;
         }
 
-        return sum * x;
+        while(num > 0){
+            ans = (ans * 10) + (num % 10);
+            num = num / 10;
+        }
+
+        return ans * sum;
     }
 }
