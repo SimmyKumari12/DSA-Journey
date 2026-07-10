@@ -83,6 +83,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -97,6 +98,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +164,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1840-maximum-building-height](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
 |  |
 | ------- |
@@ -231,6 +234,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +250,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -306,6 +311,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -316,6 +322,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
@@ -483,6 +490,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
