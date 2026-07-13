@@ -471,6 +471,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## String Matching
 |  |
