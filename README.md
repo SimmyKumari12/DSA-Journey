@@ -54,6 +54,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0283-move-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
@@ -255,6 +256,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -314,6 +316,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0069-sqrtx](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -324,6 +327,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
@@ -342,6 +346,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
