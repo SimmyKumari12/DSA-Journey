@@ -84,6 +84,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -133,6 +134,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -179,6 +181,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -199,6 +202,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1840-maximum-building-height](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1840-maximum-building-height) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -323,6 +327,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3620-network-recovery-pathways) |
@@ -354,6 +359,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -400,6 +406,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -544,6 +551,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
