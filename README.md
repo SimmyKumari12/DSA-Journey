@@ -290,6 +290,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -338,6 +339,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -458,12 +460,14 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0145-binary-tree-postorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 ## Breadth-First Search
 |  |
