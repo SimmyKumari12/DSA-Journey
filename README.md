@@ -168,6 +168,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0229-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -256,6 +257,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0189-rotate-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -391,6 +393,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -537,6 +540,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -587,4 +591,8 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
