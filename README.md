@@ -67,6 +67,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -174,6 +175,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0628-maximum-product-of-three-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -396,6 +398,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3620-network-recovery-pathways) |
