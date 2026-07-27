@@ -297,6 +297,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0008-string-to-integer-atoi](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0125-valid-palindrome) |
@@ -481,6 +482,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
