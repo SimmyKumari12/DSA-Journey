@@ -8,14 +8,15 @@ class Solution {
             max = Math.max(num,max);
         }
 
-        ArrayList<Integer> helper = new ArrayList<>();
-        ArrayList<Integer> ans = new ArrayList<>();
-        for(int num : nums){
-            helper.add(num);
+        int[] arr = new int[max + 1];
+        for(int i : nums){
+            arr[i]++;
         }
 
+        List<Integer> ans = new ArrayList<>();
+
         for(int i = min; i <= max; i++){
-            if(!helper.contains(i)){
+            if(arr[i] == 0){
                 ans.add(i);
             }
         }
