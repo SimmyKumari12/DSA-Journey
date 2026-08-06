@@ -132,6 +132,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0138-copy-list-with-random-pointer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0229-majority-element-ii) |
@@ -508,6 +509,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0092-reverse-linked-list-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
@@ -585,6 +587,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 ## Queue
@@ -657,4 +660,8 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1406-stone-game-iii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
