@@ -143,6 +143,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0496-next-greater-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -493,6 +494,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
+| [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 ## Union-Find
 |  |
 | ------- |
@@ -532,6 +534,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -594,6 +597,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0146-lru-cache](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+| [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 ## Queue
 |  |
 | ------- |
