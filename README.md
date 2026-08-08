@@ -232,6 +232,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0877-stone-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1406-stone-game-iii) |
@@ -340,6 +341,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -673,4 +675,12 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0146-lru-cache) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
