@@ -14,19 +14,14 @@ class Solution {
             }
         }
 
-        int n = list.size();
-        if(n == 0){
-            return s;
-        }
-        while(n > 0){
-            for(int i = 0; i < m; i++){
-                char ch = s.charAt(i);
-                if(ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' || ch == 'o' || ch == 'O' || ch == 'u' || ch == 'U'){
-                    ans += list.get(n - 1);
-                    n--;
-                } else{
-                    ans += ch;
-                }
+        int vowelIdx = list.size() - 1;
+        for(int i = 0; i < m; i++){
+            char ch = s.charAt(i);
+            if(ch == 'a' || ch == 'A' || ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' || ch == 'o' || ch == 'O' || ch == 'u' || ch == 'U'){
+                ans += list.get(vowelIdx);
+                vowelIdx--;
+            } else{
+                ans += ch;
             }
         }
         return ans;
