@@ -91,6 +91,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2574-left-and-right-sum-differences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2942-find-words-containing-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -358,6 +359,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2942-find-words-containing-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
