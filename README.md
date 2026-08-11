@@ -61,6 +61,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0486-predict-the-winner](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -146,6 +147,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
@@ -191,6 +193,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1288-remove-covered-intervals) |
@@ -300,6 +303,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0345-reverse-vowels-of-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -405,6 +409,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
