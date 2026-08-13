@@ -71,6 +71,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0877-stone-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
@@ -417,6 +418,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -450,6 +452,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0003-longest-substring-without-repeating-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -461,6 +464,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0238-product-of-array-except-self](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
