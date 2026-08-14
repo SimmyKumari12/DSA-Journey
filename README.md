@@ -75,6 +75,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1004-max-consecutive-ones-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -161,6 +162,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
