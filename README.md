@@ -95,6 +95,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2574-left-and-right-sum-differences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -161,6 +162,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0904-fruit-into-baskets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
