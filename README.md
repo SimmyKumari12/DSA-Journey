@@ -394,6 +394,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2390-removing-stars-from-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -537,6 +538,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3838-weighted-word-mapping) |
@@ -608,6 +610,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2390-removing-stars-from-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
