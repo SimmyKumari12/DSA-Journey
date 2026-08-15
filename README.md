@@ -69,6 +69,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0628-maximum-product-of-three-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -535,6 +536,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
@@ -606,6 +608,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
