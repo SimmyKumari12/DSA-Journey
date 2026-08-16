@@ -678,10 +678,12 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
+| [0933-number-of-recent-calls](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |
 | ------- |
@@ -735,6 +737,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0933-number-of-recent-calls) |
 ## Game Theory
 |  |
 | ------- |
