@@ -390,6 +390,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0316-remove-duplicate-letters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0686-repeated-string-match) |
@@ -428,6 +429,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0060-permutation-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -616,6 +618,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
