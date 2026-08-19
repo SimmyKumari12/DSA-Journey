@@ -396,6 +396,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0394-decode-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0649-dota2-senate](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -469,6 +470,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
@@ -695,6 +697,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |
