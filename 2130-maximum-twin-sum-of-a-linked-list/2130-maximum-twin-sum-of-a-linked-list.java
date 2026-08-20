@@ -10,25 +10,27 @@
  */
 class Solution {
     public int pairSum(ListNode head) {
-        ArrayList<Integer> list = new ArrayList<>();
         ListNode curr = head;
-
+        int n = 0;
         while(curr != null){
-            list.add(curr.val);
             curr = curr.next;
+            n++;
         }
 
-        int left = 0;
-        int right = list.size() - 1;
-        int sum = 0;
-        int maxSum =Integer.MIN_VALUE;
+        ListNode temp = head;
+        int[] res = new int[n];
 
-        while(left < right){
-            sum = list.get(left) + list.get(right);
-            maxSum = Math.max(sum,maxSum);
-            left++;
-            right--;
+        for(int i = 0; i < n; i++){
+            res[i] = temp.val;
+            temp = temp.next;
         }
-        return maxSum;
+
+        int ans = Integer.MIN_VALUE;
+        for(int i = 0; i < n/2;i++){
+            int sum = 0;
+            sum += res[i] + res[n-1-i];
+            ans = Math.max(ans,sum);
+        }
+        return ans;
     }
 }
