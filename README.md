@@ -180,6 +180,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1657-determine-if-two-strings-are-close](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2336-smallest-number-in-infinite-set](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -531,6 +532,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3620-network-recovery-pathways) |
@@ -594,6 +596,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0493-reverse-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2336-smallest-number-in-infinite-set](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Union-Find
 |  |
 | ------- |
@@ -702,6 +705,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0295-find-median-from-data-stream](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 | [0933-number-of-recent-calls](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
