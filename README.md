@@ -284,6 +284,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1510-stone-game-iv](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2769-find-the-maximum-achievable-number) |
@@ -411,6 +412,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1657-determine-if-two-strings-are-close) |
+| [1927-sum-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -485,6 +487,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1833-maximum-ice-cream-bars](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -777,6 +780,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1406-stone-game-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
