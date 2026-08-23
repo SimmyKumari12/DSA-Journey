@@ -820,6 +820,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1068-product-sales-analysis-i) |
