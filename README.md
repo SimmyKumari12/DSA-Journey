@@ -422,6 +422,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -512,6 +513,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
