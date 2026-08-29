@@ -107,6 +107,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2942-find-words-containing-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2942-find-words-containing-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -240,6 +241,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1840-maximum-building-height](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -622,6 +624,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
