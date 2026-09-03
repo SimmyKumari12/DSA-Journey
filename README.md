@@ -690,6 +690,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -769,12 +770,14 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -784,6 +787,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 ## Topological Sort
