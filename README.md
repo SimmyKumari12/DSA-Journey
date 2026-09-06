@@ -378,6 +378,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0042-trapping-rain-water](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
@@ -413,6 +414,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0020-valid-parentheses](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
