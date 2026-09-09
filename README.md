@@ -891,6 +891,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0620-not-boring-movies](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1075-project-employees-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1211-queries-quality-and-percentage) |
