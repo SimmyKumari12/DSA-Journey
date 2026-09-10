@@ -789,6 +789,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -796,6 +797,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0104-maximum-depth-of-binary-tree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3310-remove-methods-from-project) |
@@ -809,6 +811,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Topological Sort
 |  |
 | ------- |
