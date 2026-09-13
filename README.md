@@ -70,6 +70,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0643-maximum-average-subarray-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -336,6 +337,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0037-sudoku-solver](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [2352-equal-row-and-column-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
