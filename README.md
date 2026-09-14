@@ -296,6 +296,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0486-predict-the-winner](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1140-stone-game-ii) |
@@ -927,4 +928,8 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
