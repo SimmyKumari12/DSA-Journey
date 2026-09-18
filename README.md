@@ -193,6 +193,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -249,6 +250,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
@@ -455,6 +457,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1927-sum-game](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -536,6 +539,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
