@@ -306,6 +306,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1140-stone-game-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1563-stone-game-v) |
@@ -949,4 +950,5 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
