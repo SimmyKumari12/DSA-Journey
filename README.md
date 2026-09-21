@@ -86,6 +86,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1406-stone-game-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1563-stone-game-v) |
@@ -584,6 +585,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0724-find-pivot-index](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1838-frequency-of-the-most-frequent-element) |
