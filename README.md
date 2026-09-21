@@ -90,6 +90,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1563-stone-game-v) |
+| [1672-richest-customer-wealth](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -352,6 +353,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0835-image-overlap](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [1672-richest-customer-wealth](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [2352-equal-row-and-column-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
