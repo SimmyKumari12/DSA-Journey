@@ -299,6 +299,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0263-ugly-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -448,6 +449,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0443-string-compression) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0649-dota2-senate](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0649-dota2-senate) |
@@ -636,6 +638,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1929-concatenation-of-array) |
