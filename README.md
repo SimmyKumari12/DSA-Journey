@@ -97,6 +97,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1840-maximum-building-height](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2029-stone-game-ix) |
@@ -635,6 +636,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0735-asteroid-collision](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2352-equal-row-and-column-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
