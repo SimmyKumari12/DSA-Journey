@@ -154,6 +154,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -308,6 +309,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1406-stone-game-iii) |
