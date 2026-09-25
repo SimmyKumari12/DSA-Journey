@@ -983,4 +983,8 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
