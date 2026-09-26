@@ -199,6 +199,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -261,6 +262,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0532-k-diff-pairs-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -477,6 +479,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0940-distinct-subsequences-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -747,6 +750,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0895-maximum-frequency-stack](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1096-brace-expansion-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2390-removing-stars-from-a-string) |
@@ -766,6 +770,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0104-maximum-depth-of-binary-tree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -784,6 +789,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0078-subsets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
+| [1096-brace-expansion-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
