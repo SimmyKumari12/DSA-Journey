@@ -194,6 +194,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0264-ugly-number-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
@@ -290,6 +291,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1189-maximum-number-of-balloons) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [2029-stone-game-ix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2029-stone-game-ix) |
@@ -470,6 +472,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0316-remove-duplicate-letters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0443-string-compression) |
@@ -833,6 +836,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
