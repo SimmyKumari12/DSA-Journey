@@ -48,6 +48,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0128-longest-consecutive-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0217-contains-duplicate) |
@@ -396,6 +397,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0141-linked-list-cycle](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0283-move-zeroes) |
@@ -543,6 +545,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0035-search-insert-position](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0410-split-array-largest-sum) |
