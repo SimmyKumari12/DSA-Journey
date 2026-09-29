@@ -114,6 +114,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [2149-rearrange-array-elements-by-sign](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
 | [2574-left-and-right-sum-differences](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -373,6 +374,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1260-shift-2d-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1672-richest-customer-wealth](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -444,6 +446,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [1563-stone-game-v](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1002,6 +1005,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
 | ------- |
