@@ -974,6 +974,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Database
 |  |
 | ------- |
+| [0183-customers-who-never-order](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
