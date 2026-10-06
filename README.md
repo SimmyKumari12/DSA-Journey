@@ -986,6 +986,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0184-department-highest-salary) |
