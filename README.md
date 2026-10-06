@@ -991,6 +991,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0178-rank-scores](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0577-employee-bonus) |
