@@ -479,6 +479,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0139-word-break](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
@@ -798,6 +799,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SimmyKumari12/DSA-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -819,6 +821,7 @@ I'm currently learning Data Structures & Algorithms and improving my problem-sol
 | [0078-subsets](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/SimmyKumari12/DSA-Journey/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SimmyKumari12/DSA-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
